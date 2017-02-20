@@ -1,0 +1,77 @@
+/*content--section*/
+.section1{
+  margin-top: 59px;
+  margin-bottom: 63px;
+
+}
+.blogimage{
+  width: 656px; 
+  height: 335px;
+}
+.imgcaption{
+  width: 656px; 
+  height: 90px; 
+  text-align: center; 
+  background-color: #ff6666; 
+  color: white; 
+  font-size: x-large;
+}
+.blog p {
+    padding-top: 27px;
+    padding-left: 41px;
+    font-size: 19px;
+    font-weight: 300;
+}
+
+/*----Section2----*/
+
+.contentbox1{
+  background-color: #f1f1f2
+
+}
+
+    .yearlist li:nth-child(2),
+    .yearlist li:nth-child(3),
+    .yearlist li:nth-child(4) {
+    border-left: 1px solid #000;
+  }
+
+/*  ----Section3------*/
+.Section3{
+  background-color: #00a69c; 
+  height: 92px; 
+  margin-top: 64px;
+}
+
+.contentbox2{
+  background-color: #f1f1f2
+}    
+.imp{
+  width: 292px; 
+  height: 193px; 
+  padding-top:10px; 
+  background-color: #ff6666; 
+  border-radius: 10px;
+  float: right;
+}
+
+
+.pic {
+    float: left;
+    margin: 23px;
+    margin-top: 48px;
+    text-align: center;
+
+}
+.pic img{
+  outline: 1px solid white;
+  outline-offset: -8px;
+  width: 245px;
+  height: 245px;
+
+}
+.pic p{
+  padding-top: 28px;
+
+}
+
